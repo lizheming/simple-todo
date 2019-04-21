@@ -37,12 +37,12 @@ exports.model = {
   mysql: {
     handle: mysql,
     database: 'todo',
-    prefix: 'think_',
+    prefix: '',
     encoding: 'utf8',
     host: '127.0.0.1',
     port: '',
     user: 'root',
-    password: 'root',
+    password: 'admin12345678',
     dateStrings: true
   }
 };
